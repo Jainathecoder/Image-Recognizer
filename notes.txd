@@ -1,0 +1,22 @@
+https://teachablemachine.withgoogle.com/models/fB1jcho7e/
+Bootstrap colors:
+ primary = blue
+ success = green
+ danger = red
+ warning =yellow
+ info = light blue
+
+ set
+attack
+attach
+snap
+webcam.set
+webcam.attach
+webcam.snap - data_uri
+uri = uniform resource identifier
+LIBRARY
+1. ml5.js ml5.js work with machine learning. ml5.js helps to work with different models and do a comparison between our input (image, audio, etc) with the model, and give the result. Link://unpkg.com/ml5@0.4.3/dist/ml5.min.js" target="_blank">https://unpkg.com/ml5@0.4.3/dist/ml5.min.js
+2. fabric.js library was used to work efficiently on canvas
+3. webcam.js library was used to work with webcam and capture images Link: https://cdnjs.com/libraries/webcamjs
+classifier = ml5.imageClassifier
+json - JavaScript Object Notation is an open standard file format that is used to hold data in an object format.
